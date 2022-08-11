@@ -1,6 +1,4 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=DF7861&height=300&section=header&text=Jay%20Kim&fontSize=90&rotate=-10&descAlignY=20&fontColor=FCF8E8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=DF7861&height=150&section=header&text=Jay%20Kim&fontSize=90&rotate=-10&descAlignY=20&fontColor=FCF8E8&animation=fadeIn)
 
 <p align="center"><a href="https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179" target="_blank"><img src="https://img.shields.io/badge/blog-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a></p> 
 
