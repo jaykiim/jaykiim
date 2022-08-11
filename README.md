@@ -3,10 +3,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=DF7861&height=300&section=header&text=Jay%20Kim&fontSize=90&fontAlign=75&rotate=20&fontAlignY=20&desc=tidzmtm12@naver.com&descAlign=85&descAlignY=40&fontColor=FCF8E8&animation=fadeIn)
 
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jaykiim&show_icons=true&theme=moltack"/>
+</>
+
 <p align="center"><a href="https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179" target="_blank"><img src="https://img.shields.io/badge/blog-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a></p> 
 
+---
+
 <br/>
-<p align="center">💡 Tech Stack</p> 
+<p align="center">🛠️ Tech Stack</p> 
 <br/>
 
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">   
@@ -26,7 +34,3 @@
 <br />
 
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaykiim&show_icons=true&theme=moltack"/>
-</>
