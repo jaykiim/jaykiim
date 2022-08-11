@@ -3,12 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=DF7861&height=300&section=header&text=Jay%20Kim&fontSize=90&fontAlign=75&rotate=20&fontAlignY=20&desc=tidzmtm12@naver.com&descAlign=85&descAlignY=40&fontColor=FCF8E8&animation=fadeIn)
 
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaykiim&show_icons=true&theme=moltack"/>
-</>
-
 <p align="center"><a href="https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179" target="_blank"><img src="https://img.shields.io/badge/blog-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a></p> 
 
 ---
@@ -33,4 +27,10 @@
 
 <br />
 
+---
 
+<br />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jaykiim&show_icons=true&theme=moltack"/>
+</>
