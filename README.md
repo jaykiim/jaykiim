@@ -2,10 +2,6 @@
 
 <br/>
 
-## 안녕하세요, 개발을 좋아하는 Jay 입니다!  
-
-<br/>
-
 ⚙️ **Tech Stacks**
 <table>
 	<tr valign="center">
