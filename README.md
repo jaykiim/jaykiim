@@ -2,7 +2,8 @@
 
 <br/>
 
-⚙️ **Tech Stacks**
+### ⚙️ Tech Stacks
+
 <table>
 	<tr valign="center">
 		<td>Front-End</td>
