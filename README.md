@@ -61,9 +61,23 @@
 			<a href="https://www.notion.so/Sherpa-ebad125a9adb41ba96bff82e590fcb40"><img src="https://img.shields.io/badge/Sherpa-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a>
 		</td>	
 	</tr>
+	<tr valign="center">
+		<td align="center"><a href="https://twitter-clone-murex-nu.vercel.app/">Twitter-Clone</a></td>
+		<td align="center">트위터 클론 코딩</td>
+		<td align="center">
+			<a href="https://github.com/jaykiim/twitter-clone"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+		</td>
+		<td align="center">X</td>	
+	</tr>
+	<tr valign="center">
+		<td align="center"><a href="https://graphcms-blog-tutorial.vercel.app/">GraphCMS-Blog</a></td>
+		<td align="center">트위터 클론 코딩</td>
+		<td align="center">
+			<a href="https://github.com/jaykiim/graphcms-blog-tutorial"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+		</td>
+		<td align="center">X</td>	
+	</tr>
 </table>
-
-<br/>
 
 ## About Me
 
