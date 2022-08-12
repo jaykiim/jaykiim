@@ -36,4 +36,8 @@
 ## About Me
 
 ✉️ **Contact** &nbsp; tidzmtm12@naver.com  
-🏠 **Blog** &nbsp; https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179
+🏠 **Blog** &nbsp; https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179  
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaykiim&show_icons=true&theme=moltack"/>
