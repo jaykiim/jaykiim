@@ -71,7 +71,7 @@
 	</tr>
 	<tr valign="center">
 		<td align="center"><a href="https://graphcms-blog-tutorial.vercel.app/">GraphCMS-Blog</a></td>
-		<td align="center">트위터 클론 코딩</td>
+		<td align="center">GraphCMS 를 사용한 블로그 앱</td>
 		<td align="center">
 			<a href="https://github.com/jaykiim/graphcms-blog-tutorial"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 		</td>
