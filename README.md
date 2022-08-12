@@ -1,5 +1,6 @@
 
 
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=DF7861&height=150&section=header&text=Jay%20Kim&fontSize=90&rotate=-10&descAlignY=20&fontColor=FCF8E8&animation=fadeIn)
 
 <br/>
@@ -79,7 +80,12 @@
 	</tr>
 </table>
 
-<br/>
+<br />
+
+🧸 **Toy Projects**  
+ https://www.notion.so/466e1229b0af4568aaa880459a46fbcb
+
+
 
 ## About Me
 
