@@ -4,6 +4,33 @@
 
 <p align="center"><a href="https://cyan-leech-405.notion.site/3e47f01b4ec5409f87e18a3d513f3179" target="_blank"><img src="https://img.shields.io/badge/blog-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a></p> 
 
+---
+
+<br/>
+<p align="center">⭐ Main Projects</p> 
+<br/>
+
+<p align="center">
+<b>Day Recorder</b>
+</p>
+
+<p align="center">
+<a href="https://next-dayrecorder.vercel.app/"><img src="https://img.shields.io/badge/dayrecorder-EFF5F5?style=for-the-badge&logo=Vercel&logoColor=white"></a>
+<a href="https://github.com/jaykiim/dayrecorder"><img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</p>
+
+<p align="center">
+<b>Sherpa</b>
+</p>
+
+<p align="center">
+<a href="https://sherpa-puce.vercel.app/"><img src="https://img.shields.io/badge/Sherpa-E8E7E4?style=for-the-badge&logo=Vercel&logoColor=white"></a>
+<a href="https://cyan-leech-405.notion.site/Sherpa-ebad125a9adb41ba96bff82e590fcb40"><img src="https://img.shields.io/badge/introduce-DF7861?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://github.com/jaykiim/sherpa"><img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</p>
+
+---
+
 <br/>
 <p align="center">🛠️ Tech Stack</p> 
 <br/>
@@ -19,6 +46,8 @@
 <br/>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></p>
+
+---
 
 <br/>
 <p align="center">
